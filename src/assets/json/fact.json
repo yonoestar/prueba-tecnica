@@ -1,0 +1,32 @@
+[
+  {
+    "tarifa_id": 56333,
+    "opciones": [
+      { "opcion": "Tipo de Numeración", "seleccion": "Aleatorio" },
+      { "opcion": "Lugar de Retorno/Retiro", "seleccion": "Terminal" }
+    ],
+    "condiciones": [
+      { "condicion": "Días de energía", "descripcion": "5" },
+      { "condicion": "Días de almacenaje", "descripcion": "5" },
+      { "condicion": "Observación", "descripcion": "" },
+      { "condicion": "Url", "descripcion": "" }
+    ],
+    "tipo_gastos": [
+      { "tipo_gasto": "Agenciamiento Marítimo", "monto": 196.29 },
+      { "tipo_gasto": "Comisión de agenciamiento", "monto": 55 },
+      { "tipo_gasto": "Gate Out", "monto": 363.5 },
+      { "tipo_gasto": "Servicio de Puerto", "monto": 182.01 },
+      { "tipo_gasto": "Transporte", "monto": 1213.18 },
+      { "tipo_gasto": "Termoregistro", "monto": 17 },
+      { "tipo_gasto": "Certificado de Origen", "monto": 15 },
+      { "tipo_gasto": "Courriere", "monto": 30 },
+      { "tipo_gasto": "Ingreso al Terminal", "monto": 90.79 }
+    ],
+    "post_nombre": "APMT IS Paita",
+    "post_provincia": "PAITA",
+    "empresa_direccion_puerto_nombre": "TPE Paita",
+    "linea_naviera_nombre": "CGM - COMPAGNIE GENERALI MARITIME",
+    "transporte_unidad_negocio_nombre": "TRUCKING REEFER",
+    "monto_total": 2292.77
+  }
+]
